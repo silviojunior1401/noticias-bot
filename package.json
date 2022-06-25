@@ -1,0 +1,21 @@
+{
+  "name": "noticias-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "noticias/noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node noticias/noticias.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "moment": "^2.29.1",
+    "telegraf": "^4.4.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
