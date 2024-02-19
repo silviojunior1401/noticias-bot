@@ -9,7 +9,7 @@ O bot está acessível por este link: https://t.me/noticias_sasj_bot
 
 Comando para iniciar o bot: 
 
-### `node .\noticias\noticias.js`
+### `npm start`
 
 --------------------------------
 ## Pacotes utilizados:
