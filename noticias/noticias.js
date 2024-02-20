@@ -29,7 +29,7 @@ bot.start(async ctx =>{
 
         for (i in res.data.articles) {
             noticia = res.data.articles[i]
-            //console.log(noticia)
+            // console.log(noticia)
             await ctx.replyWithMarkdown(`*${noticia.title}*\n\n_${noticia.description || ''}_\n\n[Notícia](${noticia.url})`)
         }
 

@@ -14,8 +14,8 @@ Comando para iniciar o bot:
 --------------------------------
 ## Pacotes utilizados:
 
-### "axios": "^0.23.0",
+### "axios": "^1.6.7",
 
-### "moment": "^2.29.1",
+### "moment": "^2.30.1",
 
-### "telegraf": "^4.4.2"
+### "telegraf": "^4.15.3"
